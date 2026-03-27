@@ -2,6 +2,7 @@
 03-sem-NN/solution.ipynb
 03-sem-NN/test/*
 03-sem-NN/template_x.ipynb
+.DS_Store
 venv/
 04-sem-CNN/dataset/
 04-sem-CNN/lightning_logs/
