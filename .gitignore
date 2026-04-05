@@ -18,3 +18,4 @@ Homeworks/hw1/saved/softmax.npy
 venv/
 04-sem-CNN/dataset/
 04-sem-CNN/lightning_logs/
+04-sem-CNN/model.pt
