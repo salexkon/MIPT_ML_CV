@@ -9,3 +9,5 @@
 
 [Weight init](https://deepmachinelearning.ru/docs/Neural-networks/Training/Initializationv)
 - [source paper](https://openaccess.thecvf.com/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
+
+[Image segmentation eval](https://www.jeremyjordan.me/evaluating-image-segmentation-models/)
