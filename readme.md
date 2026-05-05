@@ -15,3 +15,4 @@
 [Object tracking SORT & ByteTrack](https://github.com/PaulKlinger/ioutrack)
 
 [Различные реализации ViT](https://github.com/lucidrains/vit-pytorch/tree/main)
+[Positional Encoding in Transformer-Based Time Series Models: A Survey](https://arxiv.org/html/2502.12370v1)
